@@ -17,7 +17,7 @@ Big-O gösterimini yazınız.
                [8,11,12,16,21,22]
 ```
 ```
-O(n logn) = 
+O(n logn) 
 
 
 ```
